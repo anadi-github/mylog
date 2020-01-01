@@ -6,3 +6,4 @@ anadis mylog project.
 * Build a web service to write a new line in an S3 file using AWS API Gateway and Lambda
 
 # This is a test commit, directly to master!
+The checkin to master failed. See 005-MasterMistake.md for the complete recovery
