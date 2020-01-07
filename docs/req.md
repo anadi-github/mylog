@@ -29,8 +29,18 @@ This page shows the follwoing controls:
 * Timestamp - populated to current, but changeable using date and time selector
 * Medicin name - Free text field, shows past values as unique options as DD too, but new values typable
 
+## Bio Log Page
+This page shows key and value page (For example, weight or blood glucose or pressure):
+* Timestamp - populated to current, but changeable using date and time selector
+* Name - Free text field, shows past values as unique options as DD too, but new values are typable.Expectation is that the user will type in the unit too.
+* Metric - A numeric field for the metric like weight, BGL etc.
+
+
 ## Medication Setup Page
-TODO: write spec
+The page shows a list of medicine names. User can add or delete from these. These names are collected uniquely from the log. This is data management for the Medication Log page.
+
+## Metric Setup Page
+The page shows a list of metric names, similar to Medication Setup, for Metric setup.
 
 ## History Page
 TODO: write spec
