@@ -8,7 +8,7 @@ This is too traditional design. We will follow the design choice below.
 ## Design Choies - Android Client running on device DB
 In this approach the device has to be loaded from personal Gdrive of the user. Locking of the data file when multiple devices are used should somehow be done. 
 
-TODO: We should explore what server synch capability Gdrive api provides.
+We should explore what server synch capability Gdrive api provides.
 
 This approach can have an MVC architecture.
 
